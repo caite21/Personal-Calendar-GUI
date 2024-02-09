@@ -1,0 +1,4 @@
+# year,month,day of first(1 for sunday),total num days
+July 2023,7,31
+August 2023,3,31
+September 2023,6,30
