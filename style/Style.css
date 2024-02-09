@@ -1,0 +1,145 @@
+
+/*
+QMainWindow 
+background-color: white;
+*/
+
+#button {
+/*background-color: transparent;*/
+background-color: rgba(160, 180, 201, 0.2);
+color: #000;            /* Black text */
+border-radius: 5px;
+padding: 3px 3px;
+max-width: 50px;
+
+font-family: Arial;
+font-size: 12px;
+}
+
+#button:hover {
+background-color: rgba(160, 180, 201, 0.4);
+color: #000;            /* Black text */
+}
+
+#monthTitle {
+background-color: transparent;
+color: #000;            /* Black text */
+border-radius: 5px;
+width: 300px;
+font-family: Arial;
+font-size: 26px;
+letter-spacing: 1px;
+text-align: center;
+}
+
+#titleFrame {
+background-color: rgba(160, 180, 201, 0.2);
+margin: 2px;
+border-radius: 5px;
+
+}
+
+#dataFrame {
+background-color: rgba(160, 180, 201, 0.2);
+margin: 10px;
+/*margin-left: 20px;*/
+border-radius: 5px;
+
+}
+
+#calFrame {
+background-color: rgba(160, 180, 201, 0.2);
+/*margin-left: 20px;*/
+margin: 10px;
+border-radius: 5px;
+
+}
+
+#dayFrame {
+background-color: rgba(160, 180, 201, 0.07);
+margin: 0;
+/*padding: 0;*/
+}
+
+#weekendDayFrame {
+background-color: rgba(160, 180, 201, 0.2);
+margin: 0;
+/*padding: 0;*/
+}
+
+#subTitle {
+background-color: transparent;
+color: #000;            /* Black text */
+border-radius: 5px;
+text-align: left;
+vertical-align: bottom;
+
+font-family: Arial;
+letter-spacing: 1px;
+font-size: 12px;
+padding-left: 1px;
+}
+
+#date {
+background-color: transparent;
+color: #000;            /* Black text */
+border-radius: 5px;
+text-align: left;
+vertical-align: top;
+
+font-family: Arial;
+letter-spacing: 1px;
+font-size: 12px;
+/*padding-left: 3px;*/
+}
+
+#todayDate {
+background-color: #2C81C7; 
+color: #fff;
+border-radius: 5px;
+text-align: left;
+vertical-align: top;
+
+font-family: Arial;
+letter-spacing: 1px;
+font-size: 12px;
+/*padding-left: 3px;*/
+}
+
+#event {
+background-color: transparent;
+color: #000;            /* Black text */
+border-radius: 5px;
+
+text-align: left;
+vertical-align: top;
+white-space: normal;
+font-family: Arial;
+font-size: 12px;
+padding-left: 1px;
+text-decoration: none;
+}
+
+#doneEvent {
+background-color: transparent;
+color: #000;            /* Black text */
+border-radius: 5px;
+
+text-align: left;
+vertical-align: top;
+white-space: wrap;
+font-family: Arial;
+font-size: 12px;
+padding-left: 1px;
+
+text-decoration: line-through;
+}
+
+#textBox {
+background-color: #FFFFF0;
+color: #000;            /* Black text */
+border-radius: 5px;
+
+font-family: Arial;
+font-size: 12px;
+}

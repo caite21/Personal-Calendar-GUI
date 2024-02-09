@@ -1,0 +1,146 @@
+
+/*
+QMainWindow 
+background-color: #272f38;
+*/
+
+#button {
+/*background-color: transparent;*/
+background-color: #272f38;
+color: #fff;
+border-radius: 5px;
+padding: 3px 3px;
+max-width: 50px;
+
+font-family: Arial;
+font-size: 12px;
+}
+
+#button:hover {
+background-color: #394554;
+color: #fff; 
+}
+
+#monthTitle {
+background-color: transparent;
+color: #fff; 
+border-radius: 5px;
+width: 300px;
+font-family: Arial;
+font-size: 24px;
+letter-spacing: 1px;
+text-align: center;
+}
+
+#titleFrame {
+background-color: #343e4a;
+margin: 5px;
+border-radius: 5px;
+
+}
+
+#dataFrame {
+background-color: #343e4a;
+margin: 5px;
+/*margin-left: 20px;*/
+border-radius: 5px;
+
+}
+
+#calFrame {
+background-color: #343e4a;
+/*margin-left: 20px;*/
+margin: 5px;
+border-radius: 5px;
+
+}
+
+#dayFrame {
+background-color: #272f38;
+margin: 0;
+/*padding: 0;*/
+}
+
+#weekendDayFrame {
+background-color: #394554;
+margin: 0;
+/*padding: 0;*/
+}
+
+#subTitle {
+background-color: transparent;
+color: #fff; 
+border-radius: 5px;
+text-align: left;
+vertical-align: bottom;
+
+font-family: Arial;
+letter-spacing: 1px;
+font-size: 12px;
+padding-left: 1px;
+}
+
+#date {
+background-color: transparent;
+color: #fff; 
+border-radius: 5px;
+text-align: left;
+vertical-align: top;
+
+font-family: Arial;
+letter-spacing: 1px;
+font-size: 12px;
+/*padding-left: 3px;*/
+}
+
+#todayDate {
+background-color: #2C81C7; 
+color: #fff;
+border-radius: 5px;
+text-align: left;
+vertical-align: top;
+
+font-family: Arial;
+letter-spacing: 1px;
+font-size: 12px;
+/*padding-left: 3px;*/
+}
+
+#event {
+background-color: transparent;
+color: #fff; 
+border-radius: 5px;
+
+text-align: left;
+vertical-align: top;
+white-space: normal;
+font-family: Arial;
+font-size: 12px;
+padding-left: 1px;
+text-decoration: none;
+opacity: 1.0;
+}
+
+#doneEvent {
+background-color: transparent;
+color: #fff; 
+border-radius: 5px;
+
+text-align: left;
+vertical-align: top;
+white-space: wrap;
+font-family: Arial;
+font-size: 12px;
+padding-left: 1px;
+
+text-decoration: line-through;
+}
+
+#textBox {
+background-color: #272f38;
+color: #F2F2F2;
+border-radius: 5px;
+
+font-family: Arial;
+font-size: 12px;
+}

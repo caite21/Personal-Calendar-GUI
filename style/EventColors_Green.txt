@@ -1,0 +1,10 @@
+,transparent
+school,#06b35d
+appt,#06b35d
+social,#06b35d
+important,#08d16d
+E304,#065535
+C301,#38775d
+E404,#6a9986
+E449,#9bbbae
+E410,#cdddd7
